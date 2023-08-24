@@ -7,3 +7,5 @@ Typing Game
 
 
 **some changes**
+
+# █▓▒▒░░░commit jani░░░▒▒▓█
